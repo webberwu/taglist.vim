@@ -490,7 +490,7 @@ let s:tlist_def_vim_settings = 'vim;a:autocmds;v:variable;f:function'
 let s:tlist_def_yacc_settings = 'yacc;l:label'
 
 " ref. https://advancedweb.hu/2017/01/10/vim-scala-ag-ctags/
-let s:tlist_def_scala_settings = 'scala;t:trait;c:class;T:type;m:method;C:constant;l:local;p:package;o:object'
+let s:tlist_def_scala_settings = 'scala;p:package;c:class;t:trait;o:object;T:type;m:method;C:constant;l:local'
 
 "------------------- end of language specific options --------------------
 
